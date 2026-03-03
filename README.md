@@ -1,7 +1,7 @@
 # SAM-file-to-SEACR-peak-calling
-# =============================================================================
+# 
 # CUT&RUN Post-Alignment Pipeline: SAM to Peak Calling
-# =============================================================================
+# 
 # Author: Sivani Ravindran
 # Description:
    This script takes human-classified SAM files from Kraken2 output and
